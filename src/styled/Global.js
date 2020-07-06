@@ -11,5 +11,11 @@ const Global = createGlobalStyle`
         width: 100vw;
         height: 100vh;
     }
+    .App {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
 `
 export default Global;
