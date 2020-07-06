@@ -26,7 +26,6 @@ const StyledLink = styled(Link)`
     display: inline-block;
     width: 100%;
     height: 100%;
-    border: solid 1px blue;
 `
 
 export default Pictures;
