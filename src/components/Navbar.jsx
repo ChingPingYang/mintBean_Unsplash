@@ -28,7 +28,7 @@ const StyledLink = styled(Link)`
     display: inline-block;
     color: white;
     font-size: 1.2rem;
-    margin: 0px 20px;
+    margin: 20px;
     text-align: center;
     position: relative;
     transition: 0.3s;

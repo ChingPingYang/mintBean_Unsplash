@@ -10,10 +10,12 @@ const Global = createGlobalStyle`
     #root {
         width: 100vw;
         height: 100vh;
+        display: flex;
+        flex-direction: column;
     }
     .App {
         width: 100vw;
-        height: 100vh;
+        flex-grow: 1;
         display: flex;
         flex-direction: column;
     }
